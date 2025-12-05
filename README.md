@@ -16,7 +16,7 @@ Skills: Python, Pandas, Scikit-learn, Data Preprocessing, Classification Models,
 Regulatory Affairs of Road Accident Data 2020 (India) Using Python:
 
 Analyzed and visualized Indian road accident datasets to identify regulatory insights and accident trends. Applied exploratory data analysis and correlation studies to suggest safety improvements and data-driven policy measures.
-Skills: Python, Data Analysis, Matplotlib, Seaborn, EDA, Regulatory Insights.
+Skills: Python, SQL, Data Analysis, Matplotlib, Seaborn, EDA, Regulatory Insights.
 
 
 Supply Chain Management Using Power BI:
